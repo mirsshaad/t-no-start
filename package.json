@@ -1,0 +1,12 @@
+{
+  "name": "t-no-start",
+  "version": "1.0.0",
+  "description": "Test repo with package.json but no start or build script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
